@@ -1,0 +1,46 @@
+{
+  "_fv": 25,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.WOOL#3"
+      },
+      {
+        "value": "Blocks.WOOL#3"
+      },
+      {
+        "value": "Blocks.WOOL#3"
+      },
+      {
+        "value": "Blocks.WOOL#4"
+      },
+      {
+        "value": "Blocks.WOOL#4"
+      },
+      {
+        "value": "Blocks.WOOL#4"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Flag26"
+    },
+    "name": "f_craft_27",
+    "namespace": "mod"
+  }
+}
